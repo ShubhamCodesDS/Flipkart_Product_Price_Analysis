@@ -1,4 +1,4 @@
-# 📊 Flipkart Price & Discount Analysis Dashboard
+# 📊 Flipkart Product Price Analysis Dashboard
 
 ## 🚀 Project Overview
 
@@ -89,7 +89,7 @@ Built an interactive Power BI dashboard containing:
 ## 📁 Repository Structure
 
 ```text
-Flipkart-Price-Discount-Analysis/
+Flipkart-Product-Price-Analysis/
 │
 ├── Dashboard.pbix
 ├── Dashboard_Screenshot.png
