@@ -81,7 +81,6 @@ Built an interactive Power BI dashboard containing:
 
 ## 📸 Dashboard Preview
 
-> Add your dashboard screenshot here
 
 ![image alt](https://github.com/ShubhamCodesDS/Flipkart_Product_Price_Analysis/blob/68ff98d28cc9ee6d17ba91b50461c6632a37a3b8/Dashboard%20Screenshot.png)
 
