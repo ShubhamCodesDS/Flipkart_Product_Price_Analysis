@@ -95,7 +95,7 @@ Flipkart-Price-Discount-Analysis/
 ├── Dashboard_Screenshot.png
 ├── Data_Cleaning.ipynb
 ├── SQL_Queries.sql
-├── Clean_Dataset.csv
+├── Flipkart_Cleaned.csv
 ├── README.md
 └── LICENSE
 ```
