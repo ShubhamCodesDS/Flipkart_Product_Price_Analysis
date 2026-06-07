@@ -1,4 +1,4 @@
-# 📊 Flipkart Product Price Analysis Dashboard
+# 📊 Flipkart Price & Discount Analysis Dashboard
 
 ## 🚀 Project Overview
 
